@@ -26,4 +26,5 @@ jobs:
 
       - name: Run app test
         run: |
-          python app.py
+          python  app/app.py
+
